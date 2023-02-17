@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-console.log('bb')
+console.log('cc')

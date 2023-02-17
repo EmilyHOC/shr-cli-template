@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://r.cnpmjs.org/"
+    "access": "public"
   },
   "scripts": {
     "test": "node ./__tests__/@shr-cli-template/utils.test.js"
@@ -22,5 +22,5 @@
   "dependencies": {
     "@shr-cli-template/core": "^1.1.5"
   },
-  "gitHead": "c937fae00804c54d3e3b43b1ad45ce3d44b7875b"
+  "gitHead": "9f2a2a8722fc2f6463a609db3a9ed2b693d6ac12"
 }
