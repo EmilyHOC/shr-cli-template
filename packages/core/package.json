@@ -1,6 +1,6 @@
 {
   "name": "@shr-cli-template/core",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "> TODO: description",
   "author": "杨欣静 <1057958208@qq.com>",
   "homepage": "",
@@ -23,7 +23,7 @@
     "test": "node ./__tests__/@shr-cli-template/core.test.js"
   },
   "dependencies": {
-    "@shr-cli-template/utils": "^1.1.5"
+    "@shr-cli-template/utils": "^1.1.6"
   },
   "gitHead": "9f2a2a8722fc2f6463a609db3a9ed2b693d6ac12"
 }
