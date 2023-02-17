@@ -10,6 +10,9 @@
     "lib": "lib",
     "test": "__tests__"
   },
+  "bin": {
+    "shr-cli-template":  "bin/index.js"
+  },
   "files": [
     "lib"
   ],
