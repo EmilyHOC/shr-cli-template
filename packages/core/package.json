@@ -24,5 +24,6 @@
   },
   "dependencies": {
     "@shr-cli-template/utils": "^1.1.4"
-  }
+  },
+  "gitHead": "c937fae00804c54d3e3b43b1ad45ce3d44b7875b"
 }
