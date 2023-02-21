@@ -1,6 +1,6 @@
 {
   "name": "@shr-cli-template/init",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "description": "> TODO: description",
   "author": "杨欣静 <1057958208@qq.com>",
   "homepage": "https://github.com/EmilyHOC/shr-cli-template#readme",
@@ -30,8 +30,8 @@
     "@shr-cli-template/core": "file:../core",
     "@shr-cli-template/utils": "file:../utils",
     "fs-extra": "^9.0.1",
+    "npminstall": "^5.3.1",
     "path-exists": "^4.0.0",
-    "pkg-up": "^3.1.0",
-    "npminstall": "^5.3.1"
+    "pkg-up": "^3.1.0"
   }
 }

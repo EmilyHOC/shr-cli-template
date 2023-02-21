@@ -1,6 +1,6 @@
 {
   "name": "@shr-cli-template/core",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "description": "> TODO: description",
   "author": "杨欣静 <1057958208@qq.com>",
   "homepage": "",
@@ -27,13 +27,13 @@
     "@shr-cli-template/utils": "file:../utils",
     "colors": "^1.4.0",
     "commander": "^6.2.1",
+    "core-js": "^3.8.3",
     "dotenv": "^8.2.0",
     "has": "^1.0.3",
     "minimist": "^1.2.5",
     "root-check": "^1.0.0",
     "semver": "^7.3.2",
     "user-home": "^2.0.0",
-    "core-js": "^3.8.3",
     "vue": "^2.6.14",
     "vue-router": "^3.5.1"
   },
