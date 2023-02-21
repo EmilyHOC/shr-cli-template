@@ -1,0 +1,37 @@
+{
+  "name": "@shr-cli-template/init",
+  "version": "1.1.7",
+  "description": "> TODO: description",
+  "author": "杨欣静 <1057958208@qq.com>",
+  "homepage": "https://github.com/EmilyHOC/shr-cli-template#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmilyHOC/shr-cli-template.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/@shr-cli-template/init.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/EmilyHOC/shr-cli-template/issues"
+  },
+  "dependencies": {
+    "@shr-cli-template/core": "file:../core",
+    "@shr-cli-template/utils": "file:../utils",
+    "fs-extra": "^9.0.1",
+    "path-exists": "^4.0.0",
+    "pkg-up": "^3.1.0",
+    "npminstall": "^5.3.1"
+  }
+}

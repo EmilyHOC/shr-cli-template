@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-console.log('cc')
+require('../lib')();
